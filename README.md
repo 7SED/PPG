@@ -1,5 +1,5 @@
 # PPG
-PROJECT: Photoplethysmogram (Heart Rate Monitoring Device)
+PROJECT: Heart Rate Monitoring Device
 YEAR: 2019
 AUTHOR: Sh.SEDGHI, F.JABARI
 
